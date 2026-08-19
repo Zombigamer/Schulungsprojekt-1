@@ -8,6 +8,7 @@ namespace SchulungsprojektGit
         {
             Text = "Text für den ersten Dialog  erste Änderung";
             // einer neuer Kommentar im Feature1
+            // Ein Commit von auserhalb
 
             Label lblText = new Label
             {
