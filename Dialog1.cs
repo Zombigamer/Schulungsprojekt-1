@@ -7,6 +7,7 @@ namespace SchulungsprojektGit
         public Dialog1()
         {
             Text = "Text für den ersten Dialog  erste Änderung";
+            // einer neuer Kommentar im Feature1
 
             Label lblText = new Label
             {
